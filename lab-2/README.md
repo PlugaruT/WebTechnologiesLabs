@@ -11,6 +11,6 @@ Choose a MVC framework that you will use to build a web application. Use the tem
 
 
 #### Notes:
- - Don't forget to add in youre README file how to start the application :)
+ - Don't forget to add in your README file how to start the application :)
  - For this laboratory work, no database interaction is needed.
  - No JS frameworks are allowed.
