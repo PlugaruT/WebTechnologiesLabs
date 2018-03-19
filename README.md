@@ -25,3 +25,4 @@ You **lose** points for:
 #### Summary:
  - [Lab 1](/lab-1/README.md)
  - [Lab 2](/lab-2/README.md)
+ - [Lab 3](/lab-3/README.md)
