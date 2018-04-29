@@ -1,7 +1,7 @@
 # WebTechnologiesLabs
 
 ## Grading policy:
-There are 6 laboratory works.
+There are 4 laboratory works.
 
 You **gain** points for:
 
@@ -26,3 +26,4 @@ You **lose** points for:
  - [Lab 1](/lab-1/README.md)
  - [Lab 2](/lab-2/README.md)
  - [Lab 3](/lab-3/README.md)
+ - [Lab 4](/lab-4/README.md)
